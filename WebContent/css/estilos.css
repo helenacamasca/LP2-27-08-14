@@ -1,0 +1,17 @@
+@CHARSET "ISO-8859-1";
+*{
+	margin: 0 auto;
+}
+body {
+	background: black;
+	font-family: cursive;
+	font-size: 14px;
+	color: white;
+}
+h1{
+	color: yellow;
+}
+#cajaform{
+	width: 100px;
+	height: 100px;
+}
